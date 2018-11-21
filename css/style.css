@@ -1,0 +1,65 @@
+body {
+	font-family: charlesworth;
+	background: rgb(94, 79, 158);
+	color: orangered;
+}
+
+.container {
+	position: relative;
+}
+
+header.jumbotron {
+    background: rgb(94, 79, 158);
+    background-image: url("https://orig00.deviantart.net/aa4d/f/2018/110/4/9/my_cats_is_anime__gif_part_of_future_video__by_skaggles-dc9ehse.gif");
+	border-radius: 5px;
+}
+
+p {
+	font-family: charlesworth;
+	padding-top: 10px;
+	font-size: 18px;
+
+}
+
+
+h1 {
+	font-family: charlesworth;
+	font-style: bold;
+	font-size: 22px;
+	text-align: center;
+	position: relative;
+	letter-spacing: 8px;
+}
+
+h3 {
+	font-family: charlesworth;
+	color: orange;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+.anime {
+	background: rgb(182, 142, 67);
+	border-radius: 12px;
+	color: white;
+	font-style: Courier New;
+	font-size: 17px;
+	margin: 5px;
+    margin-top: 20px;
+
+}
+
+#movie-form {
+	text-align: right;
+}
+
+
+
+input#movie-input {
+	color: #000;
+}
+
+input#add-movie.btn,btn-deafult {
+    color: #000;
+    align: center;
+}
