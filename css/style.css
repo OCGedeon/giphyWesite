@@ -1,7 +1,7 @@
 body {
-	font-family: charlesworth;
+	font-family: 'Fredoka One', cursive;
 	background: rgb(94, 79, 158);
-	color: orangered;
+	color:lightseagreen;
 }
 
 .container {
@@ -16,7 +16,7 @@ header.jumbotron {
 
 
 p {
-	font-family: charlesworth;
+	font-family: 'Rasa', serif;
 	padding-top: 10px;
 	font-size: 18px;
 
@@ -24,7 +24,7 @@ p {
 
 
 h1 {
-	font-family: charlesworth;
+	font-family: 'Fredoka One', cursive;
 	font-style: bold;
 	font-size: 22px;
 	text-align: center;
@@ -33,7 +33,7 @@ h1 {
 }
 
 h3 {
-	font-family: charlesworth;
+	font-family: 'Rasa', serif;
 	color: orange;
 	padding-right: 10px;
 	padding-bottom: 10px;
@@ -43,7 +43,7 @@ h3 {
 	background: rgb(182, 142, 67);
 	border-radius: 12px;
 	color: white;
-	font-style: Courier New;
+	font-style: 'Rasa', serif;
 	font-size: 17px;
 	margin: 5px;
     margin-top: 20px;

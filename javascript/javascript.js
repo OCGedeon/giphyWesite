@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var topics = ["Ghost In The Shell", "Ninja Scroll", "Dragon Ball", "Dragon Ball Z", "Kyo", "Cowboy BeBop", "Deathnote", "Tales From Earthsea", "Origin", "Tokyo", "Evangelion", "Karas", "Withblade", "Ponyo", "The Skull Man", "Tripping The Rift", "Guyver", "Trinity Blood", "Casshern", "Devilman", "The Maxx"];	
+  var topics = ["Ghost In The Shell", "Ninja Scroll", "Dragon Ball", "Dragon Ball Z", "Kyo", "Cowboy BeBop", "Deathnote", "Tales From Earthsea", "Origin", "Tokyo", "Evangelion", "Karas", "Witchblade", "Ponyo", "The Skull Man", "Tripping The Rift", "Guyver", "Trinity Blood", "Casshern", "Devilman", "The Maxx"];	
 
   
   function renderButtons(){
